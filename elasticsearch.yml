@@ -1,0 +1,8 @@
+#network.host: 192.168.10.100
+cluster.name: Pie_Search_Cluster1
+node.name: "Pie Search Engine"
+
+http.enabled: true
+
+http.cors.enabled: true
+http.cors.allow-origin: "*"
